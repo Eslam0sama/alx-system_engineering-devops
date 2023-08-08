@@ -1,1 +1,1 @@
-shell varaibles task
+shell variables
