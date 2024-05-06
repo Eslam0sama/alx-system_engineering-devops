@@ -2,4 +2,4 @@
 #This command for displaying all processes running
 # shellcheck disable=SC2009
 
-pgrep bash
+pgrep bash -l
